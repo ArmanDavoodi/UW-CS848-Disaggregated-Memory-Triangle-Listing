@@ -1,0 +1,10 @@
+graph,partitioning,# phases optimum,#phases 1 iteration,# phases without preprocessing
+twitter,LDG,80,80,86
+twitter,Random,301,302,497
+twitter,Sequential,50,49,60
+bitcoin,LDG,77,79,92
+bitcoin,Random,134,156,131
+bitcoin,Sequential,21,25,22
+nash,LDG,154,154,156
+nash,Random,194,199,237
+nash,Sequential,70,70,71

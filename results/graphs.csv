@@ -1,0 +1,6 @@
+,,,,,,preprocessing,,,
+,,,,,,optimum,,1 iteration,
+graph,nodes,edges,size(wo pre),local buffer size,edge/nodes, removed vertices, removed edges,removed vertices,removed vertices
+twitter,81307,1768150,16829440,102400,21.74659008,4995,4995,4995,4995
+bitcoinotc,5882,35593,848212,10240,6.05117307,830,829,829,828
+Nashville_Member,11369,1048577,5558588,51200,92.23124285,18,17,17,16
