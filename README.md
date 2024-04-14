@@ -9,7 +9,7 @@ The test.cpp program will take a file path as its first argument. This file shou
 ## Results
 The results folder contains csv files which store the results of some of our tests on a [Twitter-Graph](https://snap.stanford.edu/data/ego-Twitter.html), [Bitcoin OTC Trust Network](https://snap.stanford.edu/data/soc-sign-bitcoin-otc.html) and [Nashvile Meetup Network - member edges](https://www.kaggle.com/datasets/stkbailey/nashville-meetup?select=member-edges.csv).
 ## Other Information
-* Course Name: [https://ozsu.github.io/cs848-w2024/](CS848 - Disaggregated and Heterogeneous Computing Platform for Graph Processing)
+* Course Name: [CS848 - Disaggregated and Heterogeneous Computing Platform for Graph Processing](https://ozsu.github.io/cs848-w2024/)
 * Instructor: Prof. Tamer Ozsu
 ## Contact
 * Arman Davoodi - adavoodi@uwaterloo.ca
