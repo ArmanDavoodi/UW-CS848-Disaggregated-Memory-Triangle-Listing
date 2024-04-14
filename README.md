@@ -7,7 +7,7 @@ To build the program you need to use GNU compiler to compile test.cpp as it requ
 Passing --help flag to the executable program, will print the Input format of the code and explain what each input does.
 The test.cpp program will take a file path as its first argument. This file should contain the list of edges of the input graph separated by whitespaces only.
 ## Results
-The results folder contains csv files which store the results of some of our tests on a [https://snap.stanford.edu/data/ego-Twitter.html](Twitter-Graph), [https://snap.stanford.edu/data/soc-sign-bitcoin-otc.html](Bitcoin OTC Trust Network) and [https://www.kaggle.com/datasets/stkbailey/nashville-meetup?select=member-edges.csv](Nashvile Meetup Network - member edges).
+The results folder contains csv files which store the results of some of our tests on a [Twitter-Graph](https://snap.stanford.edu/data/ego-Twitter.html), [Bitcoin OTC Trust Network](https://snap.stanford.edu/data/soc-sign-bitcoin-otc.html) and [Nashvile Meetup Network - member edges](https://www.kaggle.com/datasets/stkbailey/nashville-meetup?select=member-edges.csv).
 ## Other Information
 * Course Name: [https://ozsu.github.io/cs848-w2024/](CS848 - Disaggregated and Heterogeneous Computing Platform for Graph Processing)
 * Instructor: Prof. Tamer Ozsu
