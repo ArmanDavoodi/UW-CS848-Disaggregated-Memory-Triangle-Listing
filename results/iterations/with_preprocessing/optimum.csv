@@ -1,4 +1,4 @@
-graph,partitioning,# phases optimum,#phases 1 iteration,# phases without preprocessing
+graph,partitioning,# phases optimum,# phases 1 iteration,# phases without preprocessing
 twitter,LDG,80,80,86
 twitter,Random,301,302,497
 twitter,Sequential,50,49,60
